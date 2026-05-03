@@ -14,7 +14,8 @@
 Proyecto de software para operaciones empresariales ⚙️
 
 <p>
-  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/Español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
 </p>
 
 ---
@@ -46,5 +47,6 @@ Proyecto de software para operaciones empresariales ⚙️
 <img width="1366" height="768" alt="screenshot-2025-11-30_18-59-06" src="https://github.com/user-attachments/assets/b7ef7463-0193-4031-8ce6-98641623f1a0" />
 <img width="1366" height="768" alt="screenshot-2025-11-30_18-56-35" src="https://github.com/user-attachments/assets/4b1e5106-7556-4d56-8c26-ad1b7384bdd5" />
 <img width="1366" height="768" alt="screenshot-2025-11-30_19-00-19" src="https://github.com/user-attachments/assets/8fafcc4a-9565-4a7b-958d-04e8a55fcbd7" />
+
 
 
