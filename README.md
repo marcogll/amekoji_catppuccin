@@ -1,15 +1,20 @@
-# Amekoji Catppuccin
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_wh.png">
+    <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_blk.png" alt="Soul23" width="110">
+  </picture>
+</p>
 
-Amekoji theme with **Catppuccin Macchiato** color palette for Omarchy.
+<h1 align="center">amekoji_catppuccin.git</h1>
 
-- 📦 Install -
-   - Paste the command in your terminal ⬇️
+<p align="center">
+  Amekoji theme with Catppuccin Macchiato color palette for Omarchy.
+</p>
 
-  ```bash
-   omarchy-theme-install https://github.com/marcogll/amekoji_catppuccin.git
-   ```
+<p align="center">
+  [![Soul23](https://img.shields.io/badge/Soul23-000000?style=for-the-badge)](https://github.com/marcogll)
+</p>
 
-   OR
 
    - Open Omarchy Menu (Super + Alt + Space)
    - Go to Install > Style > Theme and paste the the below git repo link ⬇️
